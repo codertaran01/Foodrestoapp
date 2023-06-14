@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Foodrestoapp/static/css/main.d20c1684.css",
+    "main.js": "/Foodrestoapp/static/js/main.60fdd89b.js",
+    "static/js/787.d3befce1.chunk.js": "/Foodrestoapp/static/js/787.d3befce1.chunk.js",
+    "static/media/slid1.jpg": "/Foodrestoapp/static/media/slid1.4dcb5b9542aa75b839e2.jpg",
+    "static/media/slid2.jpg": "/Foodrestoapp/static/media/slid2.af862f3fa84fb6a88e51.jpg",
+    "static/media/slid3.jpg": "/Foodrestoapp/static/media/slid3.40433658602aad6885b0.jpg",
+    "static/media/imghbgg.jpg": "/Foodrestoapp/static/media/imghbgg.6a545d4d0a80d9813949.jpg",
+    "static/media/imgbhh.jpg": "/Foodrestoapp/static/media/imgbhh.c31151c3bee662014479.jpg",
+    "static/media/main image.jpg": "/Foodrestoapp/static/media/main image.8d6f949821c64ce5aad0.jpg",
+    "static/media/aboutimg.jpg": "/Foodrestoapp/static/media/aboutimg.0f44c4d04bde5c87160b.jpg",
+    "index.html": "/Foodrestoapp/index.html",
+    "main.d20c1684.css.map": "/Foodrestoapp/static/css/main.d20c1684.css.map",
+    "main.60fdd89b.js.map": "/Foodrestoapp/static/js/main.60fdd89b.js.map",
+    "787.d3befce1.chunk.js.map": "/Foodrestoapp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20c1684.css",
+    "static/js/main.60fdd89b.js"
+  ]
+}
